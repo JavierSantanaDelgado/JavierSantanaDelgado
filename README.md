@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.\
+💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
 🎓 &nbsp;Actualmente estudio Ingeniería Informática en la Escuela Superior de Informática en Ciudad Real\
 🌱 &nbsp;Estoy en camino a cursar un Máster en Ciberseguridad en la Unir y tener un futuro contrato en Inetum.\
 ✍️ &nbsp;En mi tiempo libre, me dedico a buscar como se encuentra el mundo de la informática y exprimir mi tiempo libre al máximo.\
